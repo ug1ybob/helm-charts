@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   kube-keepalived-vip:
   - apiVersion: v1
-    created: "2023-10-02T21:37:56.907674538Z"
+    created: "2023-10-02T22:00:15.871220123Z"
     description: Highly available IP addresses and services via kube-keepalived-vip
-    digest: dd5792f61016cc45355bbc2af5ae1d7beb51e4b39c30e30ef12cd707d9b51e82
+    digest: 88d2067f6bc6aacde664bc79e6d9d825216bf85632469ad3d8a4be4373abb7c8
     home: https://github.com/aledbf/kube-keepalived-vip
     name: kube-keepalived-vip
     urls:
     - https://ug1ybob.github.io/helm-charts/kube-keepalived-vip-0.0.0-95ef9d1.tgz
     version: 0.0.0-95ef9d1
-generated: "2023-10-02T21:37:56.907144932Z"
+generated: "2023-10-02T22:00:15.870532353Z"
